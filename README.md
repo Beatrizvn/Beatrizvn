@@ -1,9 +1,17 @@
-## Beatriz Nascimento
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Info
 
-<div align="center">
-  <a href="https://github.com/Beatrizvn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beatrizvn&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizvn&layout=compact&langs_count=7&theme=swift"/>
-</div>
+```python
+    name = "Beatriz Vieira Nascimento"
+    email = "beatriz-vn@hotmail.com" 
+```
+  ## **GitHub Statistics**
+
+<a href="https://github.com/kaua-pt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-pt&theme=swift&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/kaua-pt">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaua-pt&show_icons=true&theme=swift&line_height=27" alt="kaua-pt github stats"/>
+</a>
 
 
