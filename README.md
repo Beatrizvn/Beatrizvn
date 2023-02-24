@@ -2,7 +2,6 @@
 
 ```python
     name = "Beatriz Vieira Nascimento"
-    email = "beatriz-vn@hotmail.com" 
 ```
   ## **GitHub Statistics**
 
