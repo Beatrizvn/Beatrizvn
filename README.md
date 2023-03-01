@@ -2,6 +2,7 @@
 
 ```python
     name = "Beatriz Vieira Nascimento"
+    age = 19
 ```
   ## **GitHub Statistics**
 
