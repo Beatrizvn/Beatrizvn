@@ -1,8 +1,9 @@
 ## **Info**
 
-```kotlin
-    name = "Beatriz Vieira Nascimento"
-    age = 20
+```C++
+    🤓 Beatriz Vieira Nascimento
+    🌵 20y
+    📚 Software Engineering Student
 ```
 
 <div align="center"> 
