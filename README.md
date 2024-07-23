@@ -2,7 +2,6 @@
 
 ```C++
     🤓 Beatriz Vieira Nascimento
-    🌵 20y
     📚 Software Engineering Student
 ```
 
