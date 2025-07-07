@@ -3,7 +3,6 @@
 ```C++
     🤓 Beatriz Vieira Nascimento
     📚 Software Engineering Student
-    🏢 Full Stack - Senado Federal
 ```
 
 <div align="center"> 
